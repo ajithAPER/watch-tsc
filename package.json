@@ -1,5 +1,5 @@
 {
-  "name": "tsc-watch",
+  "name": "watch-tsc",
   "version": "1.0.28",
   "description": "The TypeScript compiler with onSuccess command",
   "scripts": {
