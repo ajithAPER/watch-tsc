@@ -1,6 +1,6 @@
 {
   "name": "watch-tsc",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "The TypeScript compiler with onSuccess command",
   "scripts": {
     "test": "mocha test/**/*.js"
